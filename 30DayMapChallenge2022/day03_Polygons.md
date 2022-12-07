@@ -8,7 +8,7 @@
 | ![image](../uploads/d664dec0b49c7dbdd74c1019e4133818/image.png) | [@lukacsovics](https://twitter.com/lukacsovics/status/1588288900300099585) |  |
 | ![image](../uploads/154e507f836930f5b80c08bd05a22562/image.png) | [@pokateo\_](https://twitter.com/pokateo\_/status/1588224202351513601) | mfu |
 | ![image](../uploads/da3e75ddf87a842087661f8ccf44fb49/image.png) | [@AbPictoris](https://twitter.com/AbPictoris/status/1588093601996853249) |  |
-| ![image](../uploads/b871d254d46c0608ddb1c4203e84a5ca/image.png) | [@AbPictoris](https://twitter.com/EbingerSamara/status/1588122489728958464) |  |
+| ![image](../uploads/b871d254d46c0608ddb1c4203e84a5ca/image.png) | [@EbingerSamara](https://twitter.com/EbingerSamara/status/1588122489728958464) |  |
 | ![image](../uploads/1e3d9129fc8bef253ba45c4914e6b297/image.png) | [@thomasdubdub](https://twitter.com/thomasdubdub/status/1588058505998745602) |  |
 | ![image](../uploads/156737f840730fb5a24bce0eeed6969c/image.png) | [@XemartinLaborde](https://twitter.com/XemartinLaborde/status/1588089491209740288) |  |
 
