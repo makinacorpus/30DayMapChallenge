@@ -1,7 +1,7 @@
 #### Top favorited post for day 01 `#30DayMapChallenge2022 (Points)`
 | media | user | trigramme |
 |-------|------|-----------|
-| ![image](30DayMapChallenge2022/uploads/80b103a20ebc434c8eb18477ec18a1e1/image.png) | [@ZZZZach89](https://twitter.com/ZZZZach89/status/1587423436279889920) | mfu |
+| ![image](uploads/80b103a20ebc434c8eb18477ec18a1e1/image.png) | [@ZZZZach89](https://twitter.com/ZZZZach89/status/1587423436279889920) | mfu |
 | ![image](uploads/1edde742258a2f552d0b09bc30cbc73e/image.png) | [@Lea_Des](https://twitter.com/Lea_Des/status/1587393260216991745) | bpo |
 | ![image](uploads/eb515a698a2e4173f0f68c87d2a8360d/image.png) | [@LucasDestrem](https://twitter.com/LucasDestrem/status/1587361466545590273) |  |
 | ![image](uploads/5a9a3971278e802eb40d82dfe6d68be4/image.png) | [@Yasmine_Bouzid\_](https://twitter.com/Yasmine_Bouzid\_/status/1587358085445828608) |  |
