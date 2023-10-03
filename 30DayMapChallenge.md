@@ -1,3 +1,16 @@
+# 2023
+
+| |||November 2023||| |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Wed** | **Thu** | **Fri** | **Sat** | **Sun** | **Mon** | **Tue** |
+| **1** <br/>**[Points](30DayMapChallenge2023/day01_Points.md)**| **2** <br/>**[Lines](30DayMapChallenge2023/day02_Lines.md)**   |**3** <br/>**[Polygons](30DayMapChallenge2023/day03_Polygons.md)**   |**4** <br/>**[A bad map](30DayMapChallenge2023/day04_ABadMap.md)**    | **5** <br/>**[Analog Map](30DayMapChallenge2023/day05_AnalogMap.md)**   | **6** <br/>**[Asia](30DayMapChallenge2023/day06_Asia.md)**   | **7** <br/>**[Navigation](30DayMapChallenge2023/day07_Navigation.md)**  |
+| **8** <br/>**[Africa](30DayMapChallenge2023/day08_Africa.md)**  | **9** <br/>**[Hexagons](30DayMapChallenge2023/day09_Hexagons.md)** | **10** <br/>**[North America](30DayMapChallenge2023/day10_NorthAmerica.md)**  | **11** <br/>**[Retro](30DayMapChallenge2023/day11_Retro.md)**  | **12** <br/>**[South America](30DayMapChallenge2023/day12_SouthAmerica.md)**  | **13** <br/>**[Choropleth](30DayMapChallenge2023/day13_Choropleth.md)**  | **14** <br/>**[Europe](30DayMapChallenge2023/day14_Europe.md)**  |
+|  **15** <br/>**[OpenStreetMap](30DayMapChallenge2023/day15_OpenStreetMap.md)**  |  **16** <br/>**[Oceania](30DayMapChallenge2023/day16_Oceania.md)**  |   **17** <br/>**[Flow](30DayMapChallenge2023/day17_Flow.md)**   |  **18** <br/>**[Atmosphere](30DayMapChallenge2023/day18_Atmosphere.md)**    |   **19** <br/>**[5 minutes map](30DayMapChallenge2023/day19_5MinutesMap.md)**   |   **20** <br/> **[Outdoors](30DayMapChallenge2023/day20_Outdoors.md)**  |   **21** <br/> **[Raster](30DayMapChallenge2023/day21_Raster.md)**  |
+|  **22** <br/>**[North is not always up](30DayMapChallenge2023/day22_NorthIsNotAlwaysUp.md)**    |   **23** <br/>**[3D](30DayMapChallenge2023/day23_3D.md)**   |   **24** <br/>**[Black & white](30DayMapChallenge2023/day24_Black&White.md)**   |   **25** <br/>**[Antartica](30DayMapChallenge2023/day25_Antartica.md)**   |   **26** <br/>**[Minimal](30DayMapChallenge2023/day26_Minimal.md)**   |   **27** <br/>**[Dot](30DayMapChallenge2023/day27_Dot.md)**   |   **28** <br/>**[Is this a chart or a map?](30DayMapChallenge2023/day28_IsThisAChartOrAMap.md)**   |  
+| **29** <br/>**[Population](30DayMapChallenge2023/day29_Population.md)**    |  **30** <br/> **["My favourite.."](30DayMapChallenge2023/day30_MyFavourite.md)**   |     |     |     |     |     | 
+
+
+
 # 2022
 
 | |||November 2022||| |
