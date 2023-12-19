@@ -12,4 +12,5 @@
 |![image](../uploads/e441dddb6475751b3373207d949e33a2/image.png))|[@LucasDestrem](https://twitter.com/LucasDestrem/status/1724887606050123874)|  |
 |![image](../uploads/527a54c3289029f3572c179f51f6c398/image.png)|[@Lubin_Picard](https://twitter.com/Lubin_Picard/status/1724683651173241150)|  |
 |![image](../uploads/974655f43628e62554d4b961ccf8f93a/image.png)|[@KonturInc](https://twitter.com/KonturInc/status/1724709820832366646)|  |
-|![image](../uploads/974655f43628e62554d4b961ccf8f93a/image.png)|[@helenmakesmaps](https://twitter.com/KonturInc/status/1724709820832366646)|  |
+|![image](https://github.com/makinacorpus/30DayMapChallenge/assets/26433045/9b362195-f8bb-42c7-bbef-fb7638cb3cda)|[@helenmakesmaps](https://twitter.com/KonturInc/status/1724709820832366646)|  |
+
