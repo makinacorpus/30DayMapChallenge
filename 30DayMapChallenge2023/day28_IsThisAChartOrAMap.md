@@ -12,3 +12,4 @@
 |![image](../uploads/dd19aef2dae8fce1aa7d57f72e09aff5/image.png)|[@BjnNowak](https://twitter.com/BjnNowak/status/1729367514545865061)|  |
 |![image](../uploads/7a116573dbae63364660ebd4dd6b1907/image.png)|[@Gaelle_Sutton](https://twitter.com/Gaelle_Sutton/status/1729541802766602406)|  |
 |![image](../uploads/f5aee5a63bb54e4499ce747e543eabbd/image.png)|[@Spatiomaps](https://twitter.com/Spatiomaps/status/1729755031694418129)|  |
+|![image](https://github.com/makinacorpus/30DayMapChallenge/assets/26433045/45517e07-6782-4c56-86b2-1aa4d85aa4c9)|[@milan_janosov](https://twitter.com/milan_janosov/status/1729412368319328465)|  |
