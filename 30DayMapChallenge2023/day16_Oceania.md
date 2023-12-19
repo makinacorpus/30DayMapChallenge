@@ -11,5 +11,4 @@
 |![image](../uploads/2a546216b3fa2e8eb8685a0131065d2d/image.png)|[@geo_tei](https://twitter.com/geo_tei/status/1725061432709206477)|  |
 |![image](../uploads/6d79476b09e778637f714f5abda9c4c0/image.png)|[@laysking3](https://twitter.com/laysking3/status/1725309295028219978)|  |
 |![image](../uploads/10e3b46bc57b52bb83a114f42f924166/image.png)|[@terence@fosstodon.org](https://mastodon.tetaneutral.net/@terence@fosstodon.org/111421194319059733)|  |
-|![image](../uploads/8b99e599fdc352b304df5af41ae707f9/image.png)|[@229Biodiversity
-](https://twitter.com/229Biodiversity/status/1725009882548498919)|  |
+|![image](../uploads/8b99e599fdc352b304df5af41ae707f9/image.png)|[@229Biodiversity](https://twitter.com/229Biodiversity/status/1725009882548498919)|  |
