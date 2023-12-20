@@ -12,4 +12,4 @@
 |![image](../uploads/1d28af0be578a66feece8e00825d9472/image.png)|[@anari_jr](https://twitter.com/anari_jr/status/1728904619638833157)|  |
 |![image](../uploads/bf026a256d690807c710d130562826f9/image.png)|[@samwise_v](https://twitter.com/samwise_v/status/1728895691999920520)|  |
 |![image](../uploads/a5968d9b54467aa4c10e36424ca7e8ab/image.png)|[@digigeolab](https://twitter.com/digigeolab/status/1728871850443485339)|  |
-|![image](https://github.com/makinacorpus/30DayMapChallenge/assets/26433045/b411bd9e-24ff-4d39-8294-1823f1bf9c63)|[Mickael Carlos & Matthieu Laffond](https://twitter.com/digigeolab/status/1728871850443485339](https://makina-corpus.com/)https://makina-corpus.com/)|  |
+|![image](https://makina-corpus.com/sites/default/files/2023-12/291666990-b411bd9e-24ff-4d39-8294-1823f1bf9c63.png)|[Mickael Carlos & Matthieu Laffond](https://twitter.com/digigeolab/status/1728871850443485339](https://makina-corpus.com/)https://makina-corpus.com/)|  |
