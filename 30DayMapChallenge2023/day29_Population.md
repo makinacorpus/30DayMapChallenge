@@ -12,4 +12,4 @@
 |![image](../uploads/c3af44d4568c1233581108b0bbf57a1f/image.png)|[@Lubin_Picard](https://twitter.com/Lubin_Picard/status/1729757086001811604)|  |
 |![image](../uploads/ff36ec225a16a55fbb73ae3a54c98934/image.png)|[@LisaHornung_](https://twitter.com/LisaHornung_/status/1729784854999392539)|  |
 |![image](../uploads/3c0d62e6f1bb714d2fd109df4513760f/image.png)|[@KonturInc](https://twitter.com/KonturInc/status/1729772185529864319)|  |
-|![image](https://github.com/makinacorpus/30DayMapChallenge/assets/26433045/204a9ca6-ce48-499c-9b67-5bc864c4915d)|[@oh_sk](https://twitter.com/oh_sk/status/1729860961748545696)|  |
+|![image](https://makina-corpus.com/sites/default/files/2023-12/291668984-204a9ca6-ce48-499c-9b67-5bc864c4915d.jpeg)|[@oh_sk](https://twitter.com/oh_sk/status/1729860961748545696)|  |
